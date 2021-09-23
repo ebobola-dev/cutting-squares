@@ -32,7 +32,7 @@ int main() {
 			b = res;
 			count++;
 			if (b == 0) {
-				printf("\nКонец. Всего отрезали %d раз\n", count);
+				printf("\nКонец. Всего отрезали %d раз(a)\n", count);
 				break;
 			}
 		}
